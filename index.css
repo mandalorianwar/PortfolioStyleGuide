@@ -33,6 +33,12 @@ a.hexcolor {
     font-weight: bolder;
 }
 
+#color-section {
+    display: flex;
+    justify-content:space-around;
+    flex-wrap:wrap
+}
+
 #primary-color {
     background-color: #5e3b9a;
 }
